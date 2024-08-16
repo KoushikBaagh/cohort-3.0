@@ -1,3 +1,6 @@
 [submodule "assignments"]
 	path = assignments
 	url = https://github.com/100xdevs-cohort-3/assignments.git
+[submodule "web3/web-wallet"]
+	path = web3/web-wallet
+	url = https://github.com/100xdevs-cohort-3/web-wallet.git
